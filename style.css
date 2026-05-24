@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(0, 0, 0);
+     background:linear-gradient(to right,skyblue, lightgreen);
+     background-attachment: fixed;
+     background-repeat: no-repeat;
+     imgin{
+        width:10px;
+        height:10px;
+     }
+
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    font-family: "press start 2p" consolas;
+    background:linear-gradient(to left,skyblue, lightgreen);
+    border-style: outset;
+   
+}
+
+p{
+    color: rgb(255, 255, 255);
+    font-family: "consolas" sans-serif ;
+    border-style:outset;
+    background:linear-gradient(to left,skyblue, lightgreen);
+    font-size: 25px
+}
+
